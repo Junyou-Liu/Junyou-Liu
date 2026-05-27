@@ -23,12 +23,20 @@ My work focuses on applying data science to finance-facing problems, including f
 
 Finance-related repositories on this profile are academic projects, research prototypes, or simulated backtest studies. They are not investment advice or live trading records.
 
+## Review Path
+
+For a quick portfolio review, start with the three projects below:
+
+1. **Housing Rental AI Assistant** for RAG system design, document parsing, source-grounded answers, and full-stack collaboration.
+2. **A-Share ML Return Prediction** for financial factor modeling, rolling validation, and backtest evaluation.
+3. **ESG ML Portfolio Strategy** for sustainable-finance research, benchmark comparison, and risk-aware portfolio logic.
+
 ## Featured Projects
 
 | Project | Focus | What It Shows |
 | --- | --- | --- |
-| [A-Share ML Return Prediction](https://github.com/Junyou-Liu/a-share-ml-return-prediction) | Weekly return prediction and portfolio backtesting | Factor modeling, rolling validation, model comparison |
 | [Housing Rental AI Assistant](https://github.com/Junyou-Liu/housing-rental-ai-assistant) | RAG-based rental document assistant | PDF parsing, source-grounded answers, streaming responses |
+| [A-Share ML Return Prediction](https://github.com/Junyou-Liu/a-share-ml-return-prediction) | Weekly return prediction and portfolio backtesting | Factor modeling, rolling validation, model comparison |
 | [ESG ML Portfolio Strategy](https://github.com/Junyou-Liu/esg-ml-portfolio-strategy) | ESG-aware portfolio research prototype | Sustainable finance, benchmark comparison, risk-aware backtesting |
 
 ## Core Skills
