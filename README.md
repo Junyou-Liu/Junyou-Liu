@@ -5,11 +5,11 @@
 **MSc Data Science Candidate, National University of Singapore**<br>
 Financial data modeling | Risk analytics | ESG research | RAG applications
 
-[![Data Science](https://img.shields.io/badge/Data%20Science-Modeling%20%26%20Analytics-1F4E79?style=flat-square)](#)
-[![Finance](https://img.shields.io/badge/Finance-Factor%20Research%20%26%20Backtesting-2F5597?style=flat-square)](#)
-[![Risk](https://img.shields.io/badge/Risk-Validation%20%26%20Leakage%20Control-6A5ACD?style=flat-square)](#)
+[![Data Science](https://img.shields.io/badge/Data%20Science-Modeling-1F4E79?style=flat-square)](#)
+[![Finance](https://img.shields.io/badge/Finance-Factor%20Research-2F5597?style=flat-square)](#)
+[![Risk](https://img.shields.io/badge/Risk-Validation-8B3A3A?style=flat-square)](#)
 [![ESG](https://img.shields.io/badge/ESG-Sustainable%20Finance-2E7D32?style=flat-square)](#)
-[![RAG](https://img.shields.io/badge/RAG-Document%20AI%20%26%20Evaluation-555555?style=flat-square)](#)
+[![RAG](https://img.shields.io/badge/RAG-Document%20AI-4B5563?style=flat-square)](#)
 
 </div>
 
@@ -19,13 +19,13 @@ Financial data modeling | Risk analytics | ESG research | RAG applications
 
 I am studying data science at NUS with a sustainability focus. Before NUS, I studied economics at the University of Wisconsin-Madison and completed a full-time exchange semester at Peking University Guanghua School of Management.
 
-This GitHub page is organized around work I can explain clearly in an interview: financial modeling, model validation, ESG research, and document-grounded AI systems. Each project is written to show the research question, method, result, reproducibility path, and limitation.
+This GitHub page is organized around work I can discuss in detail: financial modeling, model validation, ESG research, and document-grounded AI systems. Each project is written to show the research question, method, result, reproducibility path, and limitation.
 
 Finance-related repositories here are academic projects, research prototypes, simulated backtests, or paper-trading studies. They are not investment advice, live trading records, or fundraising materials.
 
 ## Start Here
 
-| Repository | Why it is worth reviewing |
+| Repository | What to look for |
 | --- | --- |
 | [Housing Rental AI Assistant](https://github.com/Junyou-Liu/housing-rental-ai-assistant) | RAG document assistant with PDF parsing, cited answers, streaming responses, and product-side workflow design |
 | [A-Share ML Return Prediction](https://github.com/Junyou-Liu/a-share-ml-return-prediction) | Weekly A-share return prediction with factor construction, rolling validation, Ridge / Elastic Net / MLP comparison, and backtest review |
