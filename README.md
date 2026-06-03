@@ -23,6 +23,12 @@ This GitHub page is organized around work I can discuss in detail: financial mod
 
 Finance-related repositories here are academic projects, research prototypes, simulated backtests, or paper-trading studies. They are not investment advice, live trading records, or fundraising materials.
 
+## 中文概览
+
+我目前就读于新加坡国立大学数据科学硕士（可持续方向）。这个主页主要展示金融数据建模、风险验证、ESG / 可持续金融和 RAG 文档智能相关项目，作为简历中 GitHub 链接的项目补充。
+
+建议优先查看：住房租赁 AI 智能助手、A 股机器学习收益预测、ESG 机器学习组合策略。金融相关内容均为课程项目、研究原型、模拟回测或 paper-trading 研究，不涉及实盘交易、投资建议或募资材料。
+
 ## Start Here
 
 | Repository | What to look for |
